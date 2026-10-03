@@ -1,4 +1,4 @@
-# Machine Learning 2 — Assignments
+# Deep Learning Practices
 한양대학교 데이터사이언스학과 Machine Learning 2 수업에서 작성한 알고리즘 구현과 이미지 분류 실험입니다.
 
 ## 과제 안내
