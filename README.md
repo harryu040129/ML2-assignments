@@ -30,5 +30,9 @@ jupyter lab
 - 가중 손실, focal loss, sampling을 활용한 클래스 불균형 대응
 - 모델별 실험 코드와 결과 해석
 
+## 특이사항
+- Image Classication 파일에서 시도한 MobileNet과 Resnet의 결합
+- MobileNet의 개념으로 Resnet을 경량화 시도
+
 ## 재현 상태
 노트북은 수업 당시의 실험 기록이며, 여러 모델·함수 정의와 출력이 포함됩니다. 이번 문서 정리에서 전체 학습을 재실행하지 않았고, 저장된 출력은 새로 검증한 성능 수치가 아닙니다.
