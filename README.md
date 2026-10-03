@@ -7,7 +7,7 @@
 | [KNN.ipynb](KNN.ipynb) | MNIST | 반복문과 브로드캐스팅 기반 k-NN, 거리 계산, 정확도 비교 |
 | [SVM.ipynb](SVM.ipynb) | CIFAR-10 | 선형 SVM, hinge loss, one-vs-rest 분류, 다항 로지스틱 회귀 |
 | [Image_classification.ipynb](Image_classification.ipynb) | 이미지 분류 | VGG19, MobileNet2, MobileResNet 및 클래스 불균형 실험 |
-| [Assignment 3 원본](Assignment_3_Jeongmin_Ryu_2023029516.ipynb) | 이미지 분류 | 과제 제출 이름으로 보관된 실험 노트북 |
+| [Image_Classification_3Models.ipynb](Image_Classification_3Models.ipynb) | 이미지 분류 | 과제 3: 세 모델과 클래스 불균형 대응 실험 |
 
 이미지 분류 노트북 두 개는 별도 파일로 보존되어 있습니다. 최종 성능 순위나 완전히 동일한 사본이라는 의미는 아닙니다.
 
