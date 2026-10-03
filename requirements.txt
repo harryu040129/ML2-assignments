@@ -1,0 +1,10 @@
+# Dependencies inferred from notebook imports; not a tested lockfile.
+jupyterlab
+numpy
+pandas
+matplotlib
+torch
+torchvision
+Pillow
+kagglehub
+tqdm
